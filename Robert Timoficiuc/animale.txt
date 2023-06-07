@@ -1,0 +1,14 @@
+ID: 1, Nume: Max, Varsta: 3, Rasa: Labrador
+ID: 2, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
+ID: 3, Nume: Max, Varsta: 3, Rasa: Labrador
+ID: 4, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
+ID: 5, Nume: Max, Varsta: 3, Rasa: Labrador
+ID: 6, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
+ID: 7, Nume: Max, Varsta: 3, Rasa: Labrador
+ID: 8, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
+ID: 9, Nume: Max, Varsta: 3, Rasa: Labrador
+ID: 10, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
+ID: 11, Nume: Max, Varsta: 3, Rasa: Labrador
+ID: 12, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
+ID: 13, Nume: Max, Varsta: 3, Rasa: Labrador
+ID: 14, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
