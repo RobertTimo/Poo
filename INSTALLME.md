@@ -10,7 +10,7 @@ Aplicația "Gestiunea Animalelor" este o aplicație scrisă în limbajul C++ car
 ## Instrucțiuni de instalare
 
 1. Asigurați-vă că aveți un compilator C++ instalat și configurat corect pe sistemul dvs.
-2. Descărcați sau clonați proiectul "Gestiunea Animalelor" de pe GitHub.
+2. Descărcați sau clonați proiectul "Timoficiuc Robert" de pe GitHub.
 3. Navigați la directorul proiectului în linia de comandă.
 
 ## Instrucțiuni de compilare
@@ -18,10 +18,10 @@ Aplicația "Gestiunea Animalelor" este o aplicație scrisă în limbajul C++ car
 1. În linia de comandă, executați comanda pentru compilare:
 
    ```shell
-   g++ main.cpp Animal.cpp Caine.cpp Pisica.cpp -o gestionare_animale
+   g++ main.cpp Animal.cpp Caine.cpp Pisica.cpp -o timoficiuc_robert
    ```
 
-   Aceasta va compila toate fișierele sursă și va genera un fișier executabil numit `gestionare_animale`.
+   Aceasta va compila toate fișierele sursă și va genera un fișier executabil numit `timoficiuc_robert`.
 
 2. Dacă compilarea a fost realizată cu succes, veți vedea un fișier executabil în directorul curent.
 
@@ -30,7 +30,7 @@ Aplicația "Gestiunea Animalelor" este o aplicație scrisă în limbajul C++ car
 1. Executați fișierul executabil generat:
 
    ```shell
-   ./gestionare_animale
+   ./timoficiuc_robert
    ```
 
 2. Veți fi întâmpinat de un meniu interactiv care vă permite să selectați opțiunile dorite.

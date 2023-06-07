@@ -12,3 +12,7 @@ ID: 11, Nume: Max, Varsta: 3, Rasa: Labrador
 ID: 12, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
 ID: 13, Nume: Max, Varsta: 3, Rasa: Labrador
 ID: 14, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
+ID: 15, Nume: Max, Varsta: 3, Rasa: Labrador
+ID: 16, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
+ID: 17, Nume: Max, Varsta: 3, Rasa: Labrador
+ID: 18, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
