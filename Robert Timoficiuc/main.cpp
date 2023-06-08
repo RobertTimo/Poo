@@ -31,8 +31,8 @@ int main() {
     ofstream outFile("animale.txt", ios::app);
 
     if (outFile.is_open()) {
-        Caine caine("Max", 3, "Labrador");
-        Pisica pisica("Mimi", 2, "British Shorthair");
+        Caine caine("Alma", 3, "Presa canario");               //caine
+        Pisica pisica("Melisa", 2, "British");     //pisica
 
         caine.setID(lastID + 1);
         pisica.setID(lastID + 2);

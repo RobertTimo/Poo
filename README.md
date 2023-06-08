@@ -1,6 +1,6 @@
 ### Clasa `Animal`
 
-Clasa `Animal` este o clasă abstractă, care servește ca bază pentru clasele derivate `Caine` și `Pisica`. Această clasă conține următoarele membri de date:
+Clasa `Animal` este o clasă abstractă, care servește ca bază pentru clasele derivate `Caine` și `Pisica`. Această clasă conține următorii membri de date:
 
 - `lastID` (static): Un membru static care stochează ultimul ID generat pentru un animal.
 - `id`: Un număr întreg care reprezintă ID-ul unic al animalului.

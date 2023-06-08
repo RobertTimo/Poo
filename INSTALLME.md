@@ -4,7 +4,6 @@ Aplicația "Gestiunea Animalelor" este o aplicație scrisă în limbajul C++ car
 
 ## Cerințe de sistem
 
-- Compilator C++ compatibil cu standardul C++11 sau ulterior.
 - Sistem de operare compatibil (Windows, Linux, macOS).
 
 ## Instrucțiuni de instalare

@@ -16,3 +16,47 @@ ID: 15, Nume: Max, Varsta: 3, Rasa: Labrador
 ID: 16, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
 ID: 17, Nume: Max, Varsta: 3, Rasa: Labrador
 ID: 18, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
+ID: 19, Nume: Max, Varsta: 3, Rasa: Labrador
+ID: 20, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
+ID: 21, Nume: Max, Varsta: 3, Rasa: Labrador
+ID: 22, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
+ID: 23, Nume: Max, Varsta: 3, Rasa: Labrador
+ID: 24, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
+ID: 25, Nume: Max, Varsta: 3, Rasa: Labrador
+ID: 26, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
+ID: 27, Nume: Max, Varsta: 3, Rasa: Labrador
+ID: 28, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
+ID: 29, Nume: Kora, Varsta: 3, Rasa: Labrador
+ID: 30, Nume: Mimi, Varsta: 2, Rasa: British Shorthair
+ID: 31, Nume: Kora, Varsta: 3, Rasa: Cane Corso
+ID: 32, Nume: Mimi, Varsta: 2, Rasa: Pisica persana
+ID: 33, Nume: Kora, Varsta: 3, Rasa: Cane Corso
+ID: 34, Nume: Mimi, Varsta: 2, Rasa: Skotish
+ID: 35, Nume: Alma, Varsta: 3, Rasa: Dog German
+ID: 36, Nume: Dora, Varsta: 2, Rasa: British tabby
+ID: 37, Nume: Alma, Varsta: 3, Rasa: Dog German
+ID: 38, Nume: Dora, Varsta: 2, Rasa: British tabby
+ID: 39, Nume: Alma, Varsta: 3, Rasa: Dog German
+ID: 40, Nume: Melisa, Varsta: 2, Rasa: British longhair
+ID: 41, Nume: Alma, Varsta: 3, Rasa: Dog German
+ID: 42, Nume: Melisa, Varsta: 2, Rasa: British longhair
+ID: 43, Nume: Alma, Varsta: 3, Rasa: Presa canario
+ID: 44, Nume: Melisa, Varsta: 2, Rasa: British 
+ID: 45, Nume: Alma, Varsta: 3, Rasa: Presa canario
+ID: 46, Nume: Melisa, Varsta: 2, Rasa: British 
+ID: 47, Nume: Alma, Varsta: 3, Rasa: Presa canario
+ID: 48, Nume: Melisa, Varsta: 2, Rasa: British 
+ID: 49, Nume: Alma, Varsta: 3, Rasa: Presa canario
+ID: 50, Nume: Melisa, Varsta: 2 ani , Rasa: British 
+ID: 51, Nume: Alma, Varsta: 3 ani, Rasa: Presa canario
+ID: 52, Nume: Melisa, Varsta: 2 ani, Rasa: British 
+ID: 53, Nume: Alma, Varsta: 3 ani, Rasa: Presa canario;
+ID: 54, Nume: Melisa, Varsta: 2 ani, Rasa: British ;
+ID: 55, Nume: Alma, Varsta: 3 ani, Rasa: Presa canario;
+ID: 56, Nume: Melisa, Varsta: 2 ani, Rasa: British ;
+ID: 57, Nume: Alma, Varsta: 3 ani, Rasa: Presa canario;
+ID: 58, Nume: Melisa, Varsta: 2 ani, Rasa: British;
+ID: 59, Nume: Alma, Varsta: 3 ani, Rasa: Presa canario;
+ID: 60, Nume: Melisa, Varsta: 2 ani, Rasa: British;
+ID: 61, Nume: Alma, Varsta: 3 ani, Rasa: Presa canario;
+ID: 62, Nume: Melisa, Varsta: 2 ani, Rasa: British;
